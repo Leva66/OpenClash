@@ -1,5 +1,4 @@
 # IP段匹配
-IP-CIDR,107.174.172.6/32,no-resolve
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
