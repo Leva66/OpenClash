@@ -1,0 +1,34 @@
+
+# ImmortalWrt 在线更新服务
+DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+
+# ImmortalWrt 软件仓库
+DOMAIN-SUFFIX,immortalwrt.org
+DOMAIN-SUFFIX,vsean.net
+
+# OpenWrt AI 站点
+DOMAIN-SUFFIX,openwrt.ai
+
+# Todesk
+DOMAIN-SUFFIX,todesk.com
+
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# 暴雪战网国际服下载节点
+DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
+DOMAIN-SUFFIX,level3.blizzard.com
+DOMAIN-SUFFIX,kr.cdn.blizzard.com
+DOMAIN-SUFFIX,us.cdn.blizzard.com
+DOMAIN-SUFFIX,eu.cdn.blizzard.com
+IP-CIDR,137.221.64.0/24,no-resolve
+IP-CIDR,8.251.135.126/32,no-resolve
+IP-CIDR,8.251.246.126/32,no-resolve
+
+# 暴雪战网国服相关
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,leihuo.netease.com
+
+# PT 下载相关
+DOMAIN-KEYWORD,tracker
