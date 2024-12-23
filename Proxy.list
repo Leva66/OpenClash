@@ -30,6 +30,6 @@ IP-CIDR,208.67.220.220/32,no-resolve
 DOMAIN-SUFFIX,vmiss.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,423down.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,vmiss
