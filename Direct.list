@@ -1,16 +1,34 @@
-
-# ImmortalWrt 在线更新服务
-DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
-
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
 
-# OpenWrt AI 站点
-DOMAIN-SUFFIX,openwrt.ai
+# GitHub CDN
+DOMAIN-SUFFIX,jsdelivr.net
 
 # Todesk
 DOMAIN-SUFFIX,todesk.com
+
+# VPS域名
+DOMAIN-SUFFIX,cnma.top
+
+# OpenWrt AI 站点
+DOMAIN-SUFFIX,openwrt.ai
+
+# Windows 网络连接探测
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+# DDNS
+DOMAIN-KEYWORD,synology
+DOMAIN-KEYWORD,quickconnect
+DOMAIN-SUFFIX,checkip.dyndns.org
+DOMAIN-SUFFIX,checkipv6.dyndns.org
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,ifconfig.co
+DOMAIN-SUFFIX,api.myip.com
+DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,members.3322.org
 
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
