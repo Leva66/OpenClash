@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,vsean.net
 
+# cloudflare国内
+DOMAIN-SUFFIX,cloudflare.com
+
 # Todesk
 DOMAIN-SUFFIX,todesk.com
 
