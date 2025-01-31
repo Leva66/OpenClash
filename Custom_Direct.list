@@ -4,7 +4,7 @@ DOMAIN-SUFFIX,vsean.net
 
 # cloudflare国内
 DOMAIN-SUFFIX,cloudflare.com
-
+DOMAIN-KEYWORD,cloudflare
 # Todesk
 DOMAIN-SUFFIX,todesk.com
 
