@@ -8,6 +8,7 @@
 # IP-ASN: 1
 # IP-CIDR: 2
 # TOTAL: 36
+DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
