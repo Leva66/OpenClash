@@ -9,7 +9,9 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,todesk.com
 
 # VPS域名
+DOMAIN-SUFFIX,allrich.top
 DOMAIN-SUFFIX,cnma.top
+DOMAIN-SUFFIX,cnms.top
 
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
