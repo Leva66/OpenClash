@@ -1,12 +1,35 @@
 # ImmortalWrt 软件仓库
 DOMAIN-SUFFIX,immortalwrt.org
-DOMAIN-SUFFIX,vsean.net
-
-# cloudflare国内
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-KEYWORD,cloudflare
-# Todesk
-DOMAIN-SUFFIX,todesk.com
+DOMAIN-SUFFIX,kyarucloud.moe
+# GitHub 反代 CDN
+DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-SUFFIX,gh.con.sh
+DOMAIN-SUFFIX,gh.ddlc.top
+DOMAIN-SUFFIX,gh.llkk.cc
+DOMAIN-SUFFIX,ghp.ci
+DOMAIN-SUFFIX,ghproxy.cc
+DOMAIN-SUFFIX,ghproxy.cfd
+DOMAIN-SUFFIX,ghps.cc
+DOMAIN-SUFFIX,git.886.be
+DOMAIN-SUFFIX,github.abskoop.workers.dev
+DOMAIN-SUFFIX,github.boki.moe
+DOMAIN-SUFFIX,github.moeyy.xyz
+DOMAIN-SUFFIX,github.site
+DOMAIN-SUFFIX,github.store
+DOMAIN-SUFFIX,hub.gitmirror.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,kgithub.com
+# Docker 反代 CDN
+DOMAIN-SUFFIX,docker.1panel.live
+DOMAIN-SUFFIX,docker.kejilion.pro
+DOMAIN-SUFFIX,docker.unsee.tech
+DOMAIN-SUFFIX,dockerpull.pw
+DOMAIN-SUFFIX,dockerpull.org
+DOMAIN-SUFFIX,dhub.kubesre.xyz
+DOMAIN-SUFFIX,hub.crdz.gq
+DOMAIN-SUFFIX,hub.rat.dev
+DOMAIN-SUFFIX,hub.xdark.top
+DOMAIN-SUFFIX,registry.dockermirror.com
 
 # VPS域名
 DOMAIN-SUFFIX,allrich.top
@@ -16,42 +39,21 @@ DOMAIN-SUFFIX,cnms.top
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
 
-# Windows 网络连接探测
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-
 # DDNS
 DOMAIN-KEYWORD,synology
 DOMAIN-KEYWORD,quickconnect
 DOMAIN-SUFFIX,checkip.dyndns.org
 DOMAIN-SUFFIX,checkipv6.dyndns.org
-DOMAIN-SUFFIX,checkip.synology.com
 DOMAIN-SUFFIX,ifconfig.co
 DOMAIN-SUFFIX,api.myip.com
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ip6.seeip.org
+DOMAIN-SUFFIX,kit327.com
 DOMAIN-SUFFIX,members.3322.org
 
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
-
-# 暴雪战网国际服下载节点
-DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
-DOMAIN-SUFFIX,level3.blizzard.com
-DOMAIN-SUFFIX,kr.cdn.blizzard.com
-DOMAIN-SUFFIX,us.cdn.blizzard.com
-DOMAIN-SUFFIX,eu.cdn.blizzard.com
-IP-CIDR,137.221.64.0/24,no-resolve
-IP-CIDR,8.251.135.126/32,no-resolve
-IP-CIDR,8.251.246.126/32,no-resolve
-
-# 暴雪战网国服相关
-DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,leihuo.netease.com
-
-# PT 下载相关
-DOMAIN-KEYWORD,tracker
 
 # 其他
 DOMAIN-SUFFIX,sms-activate.org
