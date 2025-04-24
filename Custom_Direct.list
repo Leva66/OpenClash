@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,github.store
 DOMAIN-SUFFIX,hub.gitmirror.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,kgithub.com
+
+
 # Docker 反代 CDN
 DOMAIN-SUFFIX,docker.1panel.live
 DOMAIN-SUFFIX,docker.kejilion.pro
@@ -31,13 +33,16 @@ DOMAIN-SUFFIX,hub.rat.dev
 DOMAIN-SUFFIX,hub.xdark.top
 DOMAIN-SUFFIX,registry.dockermirror.com
 
+
 # VPS域名
 DOMAIN-SUFFIX,allrich.top
 DOMAIN-SUFFIX,cnma.top
 DOMAIN-SUFFIX,cnms.top
 
+
 # OpenWrt AI 站点
 DOMAIN-SUFFIX,openwrt.ai
+
 
 # DDNS
 DOMAIN-KEYWORD,synology
@@ -51,11 +56,14 @@ DOMAIN-SUFFIX,ip6.seeip.org
 DOMAIN-SUFFIX,kit327.com
 DOMAIN-SUFFIX,members.3322.org
 
+
 # Windows 网络连接探测
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
+
 
 # 其他
 DOMAIN-SUFFIX,sms-activate.org
 DOMAIN-SUFFIX,racknerd.com
 DOMAIN-SUFFIX,namesilo.com
+DOMAIN-KEYWORD,cloudflare
