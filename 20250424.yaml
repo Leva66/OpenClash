@@ -1,6 +1,6 @@
 proxies:
-  - {"type":"vless","name":"🇺🇸 美国","server":"rn.cnma.top","port":443,"uuid":"d88a414b-f0b9-4f8f-a115-bc5601e1b679","tls":true,"client-fingerprint":"chrome","alpn":["h3","h2","http/1.1"],"skip-cert-verify":false,"network":"ws","ws-opts":{"path":"/d88a414b"},"servername":"rn.cnma.top"}
   - {"type":"vless","name":"🇸🇬 新加坡","server":"og.cnms.top","port":443,"uuid":"683bda1c-0e0f-499b-88d4-1926381c3627","tls":true,"client-fingerprint":"chrome","alpn":["h3","h2","http/1.1"],"skip-cert-verify":false,"network":"ws","ws-opts":{"path":"/683bda1c"},"servername":"og.cnms.top"}
+  - {"type":"vless","name":"🇺🇸 美国","server":"rn.cnma.top","port":443,"uuid":"d1f748d1-491e-4b6a-a59a-0d61a005a7a4","tls":true,"client-fingerprint":"chrome","alpn":["h3","h2","http/1.1"],"skip-cert-verify":false,"network":"ws","ws-opts":{"path":"/d1f748d1"},"servername":"rn.cnma.top"}
 
 
 proxy-groups:
